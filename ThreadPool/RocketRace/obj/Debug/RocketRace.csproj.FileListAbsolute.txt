@@ -1,0 +1,9 @@
+C:\Users\PKO\Desktop\ThreadPool\RocketRace\bin\Debug\RocketRace.exe.config
+C:\Users\PKO\Desktop\ThreadPool\RocketRace\bin\Debug\RocketRace.exe
+C:\Users\PKO\Desktop\ThreadPool\RocketRace\bin\Debug\RocketRace.pdb
+C:\Users\PKO\Desktop\ThreadPool\RocketRace\obj\Debug\RocketRace.csprojResolveAssemblyReference.cache
+C:\Users\PKO\Desktop\ThreadPool\RocketRace\obj\Debug\RocketRace.Form1.resources
+C:\Users\PKO\Desktop\ThreadPool\RocketRace\obj\Debug\RocketRace.Properties.Resources.resources
+C:\Users\PKO\Desktop\ThreadPool\RocketRace\obj\Debug\RocketRace.csproj.GenerateResource.Cache
+C:\Users\PKO\Desktop\ThreadPool\RocketRace\obj\Debug\RocketRace.exe
+C:\Users\PKO\Desktop\ThreadPool\RocketRace\obj\Debug\RocketRace.pdb
